@@ -1,4 +1,7 @@
-
 Hello
 making additional changes
 trying to have merge conflicts
+Hello
+making additional changeso
+lets see how difficult are these merging conflic
+I love conflicts
